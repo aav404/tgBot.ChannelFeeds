@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tgBot.ChannelFeeds", "tgBot.ChannelFeeds\tgBot.ChannelFeeds.csproj", "{BBDB9CF4-00CC-4C2C-83E4-CA61DCAEFD92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDB9CF4-00CC-4C2C-83E4-CA61DCAEFD92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDB9CF4-00CC-4C2C-83E4-CA61DCAEFD92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDB9CF4-00CC-4C2C-83E4-CA61DCAEFD92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDB9CF4-00CC-4C2C-83E4-CA61DCAEFD92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9634668C-737C-4509-98ED-DC9508F0AD8B}
+	EndGlobalSection
+EndGlobal
