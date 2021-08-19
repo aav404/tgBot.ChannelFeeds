@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "l70hpBOnCbXrtAIo26yfIfkWZUnV4D5STMobXiwHPRdXYpKUPVwaDktk72GIlf9jAdBHvS5KIad2FmB1yT273g==",
+  "dgSpecHash": "hj9E+cm3mMoU2k659XiKmg0KusWaQJUoHZr25Ng5o7DhCuwLfozo4MIE6wu+Bp/krPugvqcdDMsd+YcgPtj4WA==",
   "success": true,
   "projectFilePath": "D:\\projects\\tgBot.ChannelFeeds\\tgBot.ChannelFeeds\\tgBot.ChannelFeeds.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.5\\swashbuckle.aspnetcore.swagger.6.1.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.5\\swashbuckle.aspnetcore.swaggergen.6.1.5.nupkg.sha512"
+  ],
   "logs": []
 }
